@@ -1,4 +1,4 @@
-    
+
 package BST;
 import java.util.ArrayList;
 
@@ -237,5 +237,4 @@ public class BST<E extends Comparable<E>>{
     public void preorder(){
         preorder(root);
     }
-    
 }

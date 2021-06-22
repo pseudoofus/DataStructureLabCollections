@@ -1,8 +1,8 @@
-package lab 10;
+package lab10.s2;
 
 import java.util.Arrays;
 
-public class lab 10{
+public class Lab10S2 {
 
     public static void main(String[] args) {
         
