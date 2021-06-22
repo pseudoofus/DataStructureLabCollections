@@ -62,7 +62,6 @@ public class Lab10S2 {
         }
     }
     
-    // optional method to display array
     /*
     public static void displayArr(int[] arr){
         System.out.print("Sorted array: ");
